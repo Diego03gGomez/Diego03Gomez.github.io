@@ -1,0 +1,833 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+header{
+
+    font-weight: bold;
+    font-family: 'Corinthia', cursive;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+
+.contenedor1{
+    
+    margin: auto;
+    width: 90%;
+
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+
+
+/*BANER 2*/
+#baner1{
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/section-bg-8-1.jpg);
+background-size: cover;
+background-position: center;
+height: 70vh;
+
+
+
+
+}
+
+
+
+
+.contenedor2{
+   padding-top: 200px;
+    text-align: center;
+   
+    margin: auto;
+    width: 50%;
+}
+
+.contenedor2 h1{
+    font-family: 'Corinthia', cursive;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+font-size: 60px;
+
+}
+
+
+.contenedor2 p{
+    font-family: 'Corinthia', cursive;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+
+font-weight: 900;
+font-size: 20px;
+width: 90%;
+margin: auto;
+
+
+}
+
+/*BANER 2*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*BANER3*/
+.contenedor3{
+    font-family: 'Corinthia', cursive;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+padding-top: 40px;
+margin: auto;
+width: 90%;
+text-align:center;
+
+}
+
+
+.contenedor3 h2{
+    color: white;
+    font-size:40px;
+    font-weight: bold;
+}
+
+
+
+
+#baner2{
+    background-color: #272830!important;
+}
+
+
+/*BANER3*/
+
+
+
+
+
+
+
+
+
+
+
+
+.contenedor4{
+    
+    width: 70%;
+    margin: auto;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+
+
+.tarjetas1{
+    margin: auto;
+    width: 33%;
+    text-align:center;
+    
+    color: white;
+}
+
+
+.tarjetas1 img{
+    padding-top: 90px;
+    width: 65%;
+
+}
+
+
+.tarjetas1 h2{
+    font-family: 'Corinthia', cursive;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.tarjetas1 p{
+    font-family: 'Corinthia', cursive;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+font-weight: 900;
+width: 80%;
+margin: auto;
+font-size: 18px;
+
+
+
+}
+
+
+.tarjetas1 h3{
+    color: orange;
+}
+
+/* BANER DE COMIDAS*/
+
+#baner3{
+    
+    background-image:url(https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/section-bg-13.jpg);
+background-size: cover;
+background-position: center;
+height:60vh;
+
+}
+
+
+
+.contenedor5 h1{
+    font-family: 'Corinthia', cursive;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size: 70px;
+padding-bottom:-10px ;
+}
+
+
+
+.contenedor5{
+    padding-top:100px;
+
+
+
+    
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.contenedor5 p{
+    font-family: 'Corinthia', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+font-weight: 900;
+
+width: 90%;
+margin: auto;
+
+    font-size: 20px;
+}
+
+
+
+/* BANER DE COMIDAS*/
+
+
+
+/*BANER DE POSTRES*/
+.contenedor6{
+    font-family: 'Corinthia', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+
+padding-top:60px;
+width: 100%;
+margin: auto; 
+text-align: center;
+font-size:25px;
+color: white;
+
+
+    
+}
+
+
+
+.contenedor7{
+    
+    margin: auto;
+    width: 75%;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.tarjetas2{
+    font-family: 'Corinthia', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+
+color: white;
+
+    margin: auto;
+    width: 33%;
+   
+    text-align: center;
+}
+
+
+.tarjetas2 img {
+    width: 60%;
+}
+
+
+.tarjetas2 h1{
+    font-weight: bold;
+}
+
+
+.tarjetas2 p{
+    font-weight: bold;
+    font-size:18px;
+    width: 75%;
+    margin: auto;
+}
+
+
+.tarjetas2 h3{
+    color: orange;
+}
+
+
+#baner4{
+    background-color: #272830!important;
+}
+
+
+
+
+
+/*BANER DE POSTRES*/
+
+
+.contenedor8{
+    background-color: red;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.contenedor8 img{
+    width: 25%;
+}
+
+
+
+
+.div1{
+    background-image: url(cafefinal.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.contenedor_final{
+    font-family: 'Corinthia', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+
+
+
+    margin: auto;
+    width: 85%;
+    display: flex;
+}
+
+
+.div1{
+    color: white;
+    width: 50%;
+}
+
+.div2{
+    color: white;
+    width: 50%;
+   padding-left: 150px;
+}
+
+
+span{
+    color: burlywood;
+}
+
+
+
+
+.div1 a{
+    font-weight:900;
+    background-color:rgb(220, 167, 98);
+    color: white;
+    text-decoration:none;
+    padding:10px
+}
+
+
+
+.div1 a:hover{
+transition: all 0.30s;
+
+
+
+    background-color:#272830;
+    color:white;
+
+}
+
+
+
+
+
+#baner_final{
+    background-color:black
+}
+
+
+/*
+
+.contenedor_footer{
+    padding-top:30px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    
+   margin: auto;
+   width: 70%;
+   display: flex;
+   justify-content:space-around;
+   align-items:center;
+}
+
+.redes .iconos{
+    color: grey;
+    font-size:45px;
+}*/
+
+
+
+
+
+
+
+
+.icono_barra{
+    display: none;
+}
+
+
+
+footer{
+    background-color: black;
+}
+
+.contenedor_footer{
+  /* background-color: green;*/
+   
+    margin: auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.redes{
+    width: 50%;
+   
+}
+.contenedor_footer h3{
+   text-align: center;
+    color: grey;
+   
+    
+}
+
+
+.icono_redes{
+    font-size: 35px;
+   color: grey;
+    margin:0 20px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 800px){
+
+nav{
+    display: none;
+
+background-color: white;
+position: absolute;
+top: 60px;
+width: 90%;
+
+
+}
+nav a{
+    font-size: 25px;
+    padding: 20px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    margin: 10px auto;
+}
+
+nav a:hover{
+transition: all 0.60s;
+
+
+    background-color: rgb(52, 22, 8);
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+.contenedor2{
+    padding-top: 200px;
+     text-align: center;
+    
+     margin: auto;
+     width: 70%;
+ }
+
+
+
+.contenedor4{
+    flex-direction: column;
+}
+
+
+.tarjetas1{
+    width: 100%;
+}
+
+
+
+
+
+.tarjetas1 p{
+    width: 100%;
+    font-size: 20px;
+}
+
+.contenedor4{
+    width: 85%;
+}
+
+
+.contenedor2{
+    padding-top: 150px;
+     text-align: center;
+    
+     margin: auto;
+     width: 80%;
+ }
+
+
+
+ .contenedor3{
+    padding-top:50px
+ }
+
+
+
+
+#baner3{
+    height:90vh;
+    background-position: center;
+}
+
+
+.contenedor5{
+    
+    padding-top:170px;
+    width:90%;
+}
+
+
+.contenedor5 h1{
+    font-size:80px;
+}
+
+
+.contenedor7{
+    width:90%;
+    flex-direction: column;
+}
+
+
+.tarjetas2{
+    width: 90%;
+    margin: 30px auto;
+}
+
+
+.tarjetas2 img{
+width:50%;
+
+
+}
+
+
+
+
+
+
+.tarjetas1 img{
+    width:70%;
+}
+
+.contenedor8 img{
+    width:50%;
+
+}
+
+.contenedor_final{
+    flex-direction: column;
+}
+
+.div1{
+    width:100%;
+    padding-bottom: 40px;
+}
+.div2{
+    width:100%;
+    padding-left: 0px;
+}
+
+
+
+.contenedor_footer{
+flex-direction: column-reverse;
+}
+
+
+
+.icono_barra{
+    display: initial;
+    cursor: pointer;
+    font-size: 25px;
+    color: burlywood;
+}
+
+
+
+
+
+
+.contenedor_footer{
+    flex-direction: column-reverse;
+    width: 100%;
+}
+
+
+.redes{
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media(max-width:375px){
+
+.contenedor2 {
+    padding-top: 10px;
+}
+
+.contenedor5 {
+    padding-top: 10px;
+}
+
+
+
+
+
+
+}
+
+
+
+@media(max-width:280px){
+    #baner1{
+        height: 80vh;
+    }
+}
